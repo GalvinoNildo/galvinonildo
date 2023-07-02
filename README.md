@@ -9,6 +9,7 @@
 
 ![Galvino Nildo GitHub stats](https://github-readme-stats.vercel.app/api?username=galvinonildo&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galvinonildo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu estudo no meu dia 
 
